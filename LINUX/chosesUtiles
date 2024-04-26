@@ -1,0 +1,30 @@
+###PHILOSOPHIE DE LINUX
+-----------------------
+**FAIRE UNE CHOSE ET LA FAIRE PARFAITEMENT**
+
+###PRESENTATION DE LINUX
+------------------------
+**Linux est un sytème d'exploitation monolithique et modulaire**
+
+####Monolithique
+----------------
+Cela veut dire que tout le code de linux est exécuté dans UN SEUL gros objet en mémoire de l'ordinateur. C'est ce qu'on appelle le "noyau".
+Le noyau linux est la base, le coeur du système linux.
+(gestion de la mémoire, processeur, disques dur, cartes réseaux, etc...)
+
+####Modulaire
+-------------
+Modules qui viennent s'ajouter au noyau, elles communiquent entre elles et vers le noyau
+Sous licence GPL(VOIR HISTORIQUE)
+(SITE KERMEL ARCHIVES)
+Les modules sont compressés type .zip
+
+####Distributions linux
+-----------------------
+|----------------------|
+|LINUX 5.11.2          |
+|      X.Y.Z           |
+|----------------------|
+X : Génération(géneration)
+Y : Mise à jour(update)
+Z : Révision(s'il a des erreurs où bugs)
