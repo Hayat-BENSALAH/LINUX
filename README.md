@@ -1,4 +1,4 @@
 # LINUX
 PRISE EN MAIN LINUX
 <<<<<<< HEAD
-![image pinguoin](./images/pinguoinPerso.png"pinguoinPerso")
+![image pinguoin](./LINUX/images/pinguoinPerso.png)
