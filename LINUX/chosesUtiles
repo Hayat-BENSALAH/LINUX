@@ -9,7 +9,7 @@
 ####Monolithique
 ----------------
 Cela veut dire que tout le code de linux est exécuté dans UN SEUL gros objet en mémoire de l'ordinateur. C'est ce qu'on appelle le "noyau".
-Le noyau linux est la base, le coeur du système linux.
+Le noyau, linux est la base, le coeur du système linux.
 (gestion de la mémoire, processeur, disques dur, cartes réseaux, etc...)
 
 ####Modulaire
